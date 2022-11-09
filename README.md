@@ -1,4 +1,4 @@
-# sidekick-extras
+# roux-clj
 
 FIXME
 

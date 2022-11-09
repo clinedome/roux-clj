@@ -14,6 +14,10 @@ To start a web server for the application, run:
 
     lein ring server
 
+But let's be real, you want:
+
+    lein repl
+
 ## License
 
 Copyright © 2022 FIXME
